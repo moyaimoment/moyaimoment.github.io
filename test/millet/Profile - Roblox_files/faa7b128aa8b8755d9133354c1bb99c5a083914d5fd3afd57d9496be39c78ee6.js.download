@@ -1,0 +1,42 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+var Roblox = Roblox || {};
+Roblox.LangDynamicDefault = Roblox.LangDynamicDefault || {};
+Roblox.LangDynamicDefault["Feature.VerificationUpsell"] = {"Heading.AddEmail":"First, Verify Your Account","Heading.VerifyEmail":"Check Your Email","Description.AddEmailTextOver13":"To continue with your purchase, please add your email address.","Description.AddEmailTextUnder13":"To continue with your purchase, please have your parent add their email address.","Label.EmailInputPlaceholder":"Your Email","Label.EmailInputPlaceholderUnder13":"Parent's Email","Label.EmailInputPlaceholderOver13":"Your Email","Action.Continue":"Continue","Description.EnterPassword":"Please enter your password.","Label.PasswordInputPlaceholder":"Verify Account Password","Description.VerifyEmailBody":"Please click the link in the confirmation email we sent to {emailAddress}.","Action.SendConfirmationEmail":"Send Confirmation Email","Action.ResendConfirmationEmail":"Resend Confirmation Email","Message.InvalidEmailAddress":"Invalid email address.","Message.WrongPassword":"Incorrect password. Please try again.","Message.ConfirmationEmailNotSent":"Confirmation email not sent. Please try again later.","Action.ChangeEmail":"Change Email","Action.Sent":"Sent","Description.LogoutAddEmailTextOver13":"Before logging out, please add your email address so that you don't get locked out.","Description.LogoutAddEmailTextUnder13":"Before logging out, please add your parent's email address so that you don't get locked out.","Heading.VerifyOnLogout":"Don't Get Locked Out!","Action.Logout":"Skip, Log Out Anyway","Action.GenericSkip":"Skip","Description.IDVerificationAddEmailText":"Before verifying your age, please enter your email address. This will be your recovery method in case you lose access to your account.\t"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.VerificationUpsell");
+
+
+}
+/*
+     FILE ARCHIVED ON 01:09:27 Jun 01, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:23:26 Jun 01, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  CDXLines.iter: 24.351 (3)
+  RedisCDXSource: 0.981
+  load_resource: 294.385 (2)
+  captures_list: 339.581
+  xauthn.identify: 86.714
+  PetaboxLoader3.resolve: 212.612 (2)
+  exclusion.robots.policy: 146.4
+  xauthn.chkprivs: 59.324
+  exclusion.robots: 146.415
+  esindex: 0.01
+  LoadShardBlock: 156.89 (3)
+  PetaboxLoader3.datanode: 178.594 (5)
+*/

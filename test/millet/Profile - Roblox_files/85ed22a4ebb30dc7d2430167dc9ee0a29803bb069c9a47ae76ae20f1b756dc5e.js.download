@@ -1,0 +1,42 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+var Roblox = Roblox || {};
+Roblox.LangDynamicDefault = Roblox.LangDynamicDefault || {};
+Roblox.LangDynamicDefault["Feature.PeopleList"] = {"Label.Chat":"Chat with {username}","Label.ViewProfile":"View Profile","Action.Join":"Join","Action.Buy":"Buy to Join","Action.ViewDetails":"View Details","Heading.Friends":"Friends","Heading.SeeAll":"See All","Label.PresenceError":"User status may not be up to date","FriendsError":"Unable to load friends","Label.FriendsError":"Unable to load friends"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.PeopleList");
+
+
+}
+/*
+     FILE ARCHIVED ON 02:43:11 Jun 01, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:23:28 Jun 01, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 297.634
+  exclusion.robots: 226.21
+  exclusion.robots.policy: 226.202
+  xauthn.identify: 108.845
+  xauthn.chkprivs: 117.133
+  RedisCDXSource: 2.391
+  esindex: 0.006
+  LoadShardBlock: 49.288 (3)
+  PetaboxLoader3.datanode: 255.585 (5)
+  CDXLines.iter: 16.749 (3)
+  load_resource: 376.249 (2)
+  PetaboxLoader3.resolve: 159.152 (2)
+*/

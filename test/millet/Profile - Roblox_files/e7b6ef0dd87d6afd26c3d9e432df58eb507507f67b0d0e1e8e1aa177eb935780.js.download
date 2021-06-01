@@ -1,0 +1,42 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Common.Captcha"] = {"Response.CaptchaErrorVerifyFailed":"Temporary error. Please try again in a few minutes","Response.CaptchaErrorFailedToLoad":"We need to verify that you are human. Please disable your browser blocker or try a different browser.","Response.CaptchaErrorFailedToVerify":"Temporary error. Please try again in a few minutes."};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Common.Captcha");
+
+
+}
+/*
+     FILE ARCHIVED ON 02:41:59 Jun 01, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:23:27 Jun 01, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 988.849
+  exclusion.robots: 247.147
+  exclusion.robots.policy: 247.134
+  xauthn.identify: 170.346
+  xauthn.chkprivs: 76.558
+  RedisCDXSource: 3.249
+  esindex: 0.012
+  LoadShardBlock: 697.413 (3)
+  PetaboxLoader3.datanode: 736.855 (5)
+  CDXLines.iter: 27.515 (3)
+  load_resource: 104.973 (2)
+  PetaboxLoader3.resolve: 58.592
+*/

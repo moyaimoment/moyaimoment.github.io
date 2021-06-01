@@ -1,0 +1,42 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+var Roblox = Roblox || {};
+Roblox.LangDynamicDefault = Roblox.LangDynamicDefault || {};
+Roblox.LangDynamicDefault["Feature.ShopDialog"] = {"Heading.LeavingRoblox":"You are leaving Roblox","Action.ContinueToShop":"Continue to Shop","Action.Cancel":"Cancel","Description.AgeWarning":"Please note that you need to be over 18 to purchase products online. The Amazon store is not part of Roblox.com and is governed by a separate privacy policy.","Description.AmazonRedirect":"Your are about to visit our amazon store. You will be redirected to Roblox merchandise store on {shopLink}.","Description.RetailWebsiteRedirect":"Heads up, Robloxian – by clicking “continue,” you will be redirected to a retail website that is not owned or operated by Roblox. They may have different terms and privacy policies.","Description.PurchaseAgeWarning":"Please note that you need to be over 18 to purchase products online. We hope to see you again soon!","Action.Continue":"Continue","Description.WebsiteRedirect":"Please Note: By clicking \"continue,\" you will be redirected to a third party website that is not owned, operated, or controlled by Roblox. We are not responsible for the privacy and security practices of such third party websites. You should refer to the privacy policies on their sites to determine their respective privacy practices."};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.ShopDialog");
+
+
+}
+/*
+     FILE ARCHIVED ON 02:08:46 Jun 01, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:23:20 Jun 01, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 539.786
+  exclusion.robots: 421.648
+  exclusion.robots.policy: 421.64
+  xauthn.identify: 352.493
+  xauthn.chkprivs: 68.95
+  RedisCDXSource: 4.257
+  esindex: 0.008
+  LoadShardBlock: 87.649 (3)
+  PetaboxLoader3.datanode: 87.084 (5)
+  CDXLines.iter: 18.253 (3)
+  load_resource: 145.144 (2)
+  PetaboxLoader3.resolve: 95.748 (2)
+*/
