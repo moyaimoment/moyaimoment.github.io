@@ -1,0 +1,42 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Common.AlertsAndOptions"] = {"Label.sRobux":"Robux","Label.sBuyRobux":"Buy Robux","Label.sSettings":"Settings","Label.sHelp":"Help","Label.sLogout":"Logout","Label.sRobuxMessage":"{robuxValue} Robux","Label.sQuickLogin":"Quick Log In","Labels.sQuickLogInWeb":"Quick Log In","Description.KoreaScreentimeToastText":"Excessive experience use can interfere with normal daily life. You have visited on Roblox for {NumberOfHours} hour(s).","Title.Warning":"Warning","Action.OK":"OK"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Common.AlertsAndOptions");
+
+
+}
+/*
+     FILE ARCHIVED ON 21:45:59 May 31, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:23:28 Jun 01, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 630.853
+  xauthn.chkprivs: 102.123
+  xauthn.identify: 141.358
+  esindex: 0.014
+  RedisCDXSource: 11.132
+  PetaboxLoader3.resolve: 23.432
+  CDXLines.iter: 23.403 (3)
+  LoadShardBlock: 345.472 (3)
+  exclusion.robots.policy: 243.882
+  PetaboxLoader3.datanode: 406.193 (5)
+  load_resource: 92.675 (2)
+  exclusion.robots: 243.905
+*/
