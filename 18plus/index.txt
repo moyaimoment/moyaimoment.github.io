@@ -1,0 +1,3 @@
+<div class="vid-div" style="text-align: center;">
+<div id="vid-blocker"><img style="text-align: start;" src="https://raw.githubusercontent.com/moyaimoment/moyaimoment.github.io/main/caught-in.gif" alt="caught your bitch ass in 4k" width="269" height="269" /></div>
+<iframe id="video-frame" src="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ?&amp;enablejsapi=1&amp;autoplay=1&amp;mute=1" height="529" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
